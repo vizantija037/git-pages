@@ -21,5 +21,3 @@ https://vizantija037.github.io/my-portfolio/#/
 ## Circle Tabs
 https://vizantija037.github.io/tabsCircle/
 
-## Circle Tabs
-https://vizantija037.github.io/tabsCircle/
